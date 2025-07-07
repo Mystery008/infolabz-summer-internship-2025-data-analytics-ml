@@ -1,6 +1,6 @@
-# Infolabz Data Analytics Summer Internship – 15 Days
+# Infolabz Data Analytics Summer Internship – 2 Weeks
 
-This repository contains my daily assignments and project work during my 15-day summer internship at Infolabz as part of my GTU BE Computer Engineering curriculum.
+This repository contains my daily assignments and project work during my 2 weeks summer internship at Infolabz as part of my GTU BE Computer Engineering curriculum.
 
 ## Internship Timeline  
 2nd July 2025 – 16th July 2025
