@@ -2,7 +2,7 @@
 
 This repository contains my daily assignments and project work during my 2 weeks summer internship at Infolabz as part of my GTU BE Computer Engineering curriculum.
 
-## Internship Schedule & Working Days 🚫
+## Internship Schedule:
 - Internship Dates: 2nd July 2025 – 16th July 2025 (15 calendar days)
 - Working Days: Monday – Friday
 - Weekends Off: Saturdays and Sundays are non-working days
